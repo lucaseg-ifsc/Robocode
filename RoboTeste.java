@@ -1,12 +1,11 @@
 package robo;
 import robocode.*;
 //import java.awt.Color;
-//teste
 
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
 /**
- * RoboTeste - a robot by (your name here)
+ * RoboTeste - a robot by Lucas Eberle Goulart
  */
 public class RoboTeste extends Robot
 {
